@@ -1,0 +1,160 @@
+---
+title: "Welcome to the Innovation Hub!"
+subtitle: "https://innovation.fsu.edu/faculty"
+author: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    seal: true
+    css: [default, 'custom.css', 'custom-fonts.css']
+    nature:
+      titleSlideClass: [left, bottom]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+usethis::use_git_ignore(c("*.csv", "*.rds"))
+options(htmltools.dir.version = FALSE)
+
+library(knitr)
+library(tidyverse)
+library(xaringan)
+library(fontawesome)
+```
+
+
+
+class: inverse, center, middle
+
+# `r fa("fas fa-images", fill = "#fff")` **Slides** 
+
+[bretsw.com/new-faculty-hub2025](https://bretsw.com/new-faculty-hub2025/)
+
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-location-dot", fill = "#fff")` Welcome!
+
+```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+include_graphics("img/1-florida.png")
+```
+
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-radiation", fill = "#fff")` Wicked Challenges
+
+```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+include_graphics("img/2-wicked-challenges.png")
+```
+
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-otter", fill = "#fff")` How Might We...
+
+```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+include_graphics("img/3-how-might-we.png")
+```
+
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+
+```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-spa-googles.png")
+```
+
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-spa-googles.png")
+```
+
+### SPA: Start + Practice + Assess
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-spa-googles.png")
+```
+
+### Start: Goals ~ Context
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-spa-googles.png")
+```
+
+### Practice: Explore ~ Seek Support
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-spa-googles.png")
+```
+
+### Assess: Regulate ~ Evaluate
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-arrows-to-circle", fill = "#fff")` Innovation Hub
+
+```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+include_graphics("img/5-innovation-hub.png")
+```
+
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-arrows-to-circle", fill = "#fff")` Innovation Hub
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/0-new faculty innovation hub.jpg")
+```
+
+### https://innovation.fsu.edu/faculty
