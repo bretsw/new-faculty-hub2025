@@ -4,4 +4,4 @@ Presentation slide deck for the **New Faculty Welcome Reception and Ideation Ses
 
 **October 1, 2025**
 
-![]("img/0-new faculty innovation hub.jpg")
+![](img/0-new-faculty-innovation-hub.jpg)

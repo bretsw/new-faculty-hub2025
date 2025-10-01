@@ -154,7 +154,7 @@ class: regular, center, top
 # `r fa("fas fa-arrows-to-circle", fill = "#fff")` Innovation Hub
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
-include_graphics("img/0-new faculty innovation hub.jpg")
+include_graphics("img/0-new-faculty-innovation-hub.jpg")
 ```
 
 ### https://innovation.fsu.edu/faculty
