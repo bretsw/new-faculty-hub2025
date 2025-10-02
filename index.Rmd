@@ -41,7 +41,7 @@ class: regular, center, top
 
 # `r fa("fas fa-location-dot", fill = "#fff")` Welcome!
 
-```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/1-florida.png")
 ```
 
@@ -53,9 +53,13 @@ class: regular, center, top
 
 # `r fa("fas fa-radiation", fill = "#fff")` Wicked Challenges
 
-```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/2-wicked-challenges.png")
 ```
+
+--
+
+### In your first 6 weeks at FSU, what challenges have you encountered?
 
 
 
@@ -65,7 +69,7 @@ class: regular, center, top
 
 # `r fa("fas fa-otter", fill = "#fff")` How Might We...
 
-```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/3-how-might-we.png")
 ```
 
@@ -73,27 +77,22 @@ include_graphics("img/3-how-might-we.png")
 
 ---
 
-class: regular, center, top
+class: inverse, center, top
 
-# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+# How might we...
 
-```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
-include_graphics("img/4-spa-googles.png")
-```
+--
 
+### navigate our impossible expectations of ourselves at an institution climbing relentlessly during a time fraught with discord <br><br>
 
+--
 
----
+### while developing our identities as faculty members and scholars, <br><br>
 
-class: regular, center, top
+--
 
-# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+### so that our labor can serve students and impact our community, the state of Florida, and the world?
 
-```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
-include_graphics("img/4-spa-googles.png")
-```
-
-### SPA: Start + Practice + Assess
 
 
 ---
@@ -106,7 +105,19 @@ class: regular, center, top
 include_graphics("img/4-spa-googles.png")
 ```
 
-### Start: Goals ~ Context
+### Great local beer from [Ology](https://ologybrewing.com/)
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-spa-googles.png")
+```
+
+### Acronym for <u>S</u>tart + <u>P</u>ractice + <u>A</u>ssess
 
 
 ---
@@ -119,7 +130,7 @@ class: regular, center, top
 include_graphics("img/4-spa-googles.png")
 ```
 
-### Practice: Explore ~ Seek Support
+### <u>S</u>tart: Goals + Context
 
 
 ---
@@ -132,7 +143,20 @@ class: regular, center, top
 include_graphics("img/4-spa-googles.png")
 ```
 
-### Assess: Regulate ~ Evaluate
+### <u>P</u>ractice: Explore + Seek Support
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-glasses", fill = "#fff")` Spa Goggles
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-spa-googles.png")
+```
+
+### <u>A</u>ssess: Regulate + Evaluate
 
 
 ---
@@ -141,9 +165,25 @@ class: regular, center, top
 
 # `r fa("fas fa-arrows-to-circle", fill = "#fff")` Innovation Hub
 
-```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/5-innovation-hub.png")
 ```
+
+### The premier problem-solving community on campus, <br>if not the world
+
+
+
+---
+
+class: regular, center, top
+
+# `r fa("fas fa-arrows-to-circle", fill = "#fff")` Innovation Hub
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/5-innovation-hub.png")
+```
+
+### What might the Innovation Hub do for you?
 
 
 
